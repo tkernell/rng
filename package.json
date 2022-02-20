@@ -1,0 +1,25 @@
+{
+  "name": "rng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkernell/rng.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkernell/rng/issues"
+  },
+  "homepage": "https://github.com/tkernell/rng#readme",
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  },
+  "dependencies": {
+    "usingtellor": "^4.0.4"
+  }
+}
